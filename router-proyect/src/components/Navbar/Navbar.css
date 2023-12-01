@@ -1,0 +1,33 @@
+/* src/components/Navbar/Navbar.css */
+.navbar {
+    background-color: #edf6f9;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    padding: 1rem;
+  }
+  
+  .navbar-brand {
+    color: #006d77;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  
+  .navbar-nav {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .nav-item .nav-link {
+    color: #006d77;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    transition: color 0.3s ease;
+  }
+  
+  .nav-item .nav-link:hover,
+  .nav-item .nav-link.active {
+    color: #83c5be;
+  }
+  

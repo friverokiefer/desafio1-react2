@@ -1,0 +1,17 @@
+/* src/components/Home/Home.css */
+.home {
+    padding: 2rem;
+    text-align: center;
+    background-color: #edf6f9;
+    color: #006d77;
+  }
+  
+  .home h1 {
+    color: #83c5be;
+    margin-bottom: 0.5rem;
+  }
+  
+  .home p {
+    color: #006d77;
+  }
+  
