@@ -1,4 +1,3 @@
-// src/components/Home/Home.jsx
 import React from 'react';
 import './Home.css';
 import magicMuffinImage from '../../assets/magic-muffin.jpg'; 
